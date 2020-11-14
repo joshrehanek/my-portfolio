@@ -1,2 +1,4 @@
-# my-portfolio
-The portfolio for Joshua Azzam Rehanek
+#My Portfolio
+
+#The portfolio for Joshua Azzam Rehanek
+
