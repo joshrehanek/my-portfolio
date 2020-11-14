@@ -4,6 +4,11 @@ nav {
     border-bottom: black 2px solid;
 }
 
+.bold {
+    font-size: 18px;
+    font-family: fantasy;
+}
+
 /* Container holding the image and the text */
 .home-image-text {
     position: relative;
