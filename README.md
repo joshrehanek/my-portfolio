@@ -52,7 +52,7 @@ This project is created with:
 
 - [HTML](https://html.com/)
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
-- [Bootstrap] (https://getbootstrap.com/)
+- [Bootstrap](https://getbootstrap.com/)
 
 ## Summary
 
