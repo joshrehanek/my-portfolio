@@ -4,6 +4,7 @@
 
 ## Table of contents
 - [General Info](#general-info)
+- [Link to deployed page](#link-to-deployed-page)
 - [About Page](#about-page)
 - [Portfolio Page](#portfolio-page)
 - [Contact Page](#contact-page)
@@ -33,6 +34,9 @@ This is my intial portfolio which meets, but is not limited to, the following cr
 
 * Must properly utilize Bootstrap components and grid system.
 
+## Link to deployed page
+
+- https://joshrehanek.github.io/my-portfolio/
 
 ## About Page
 
