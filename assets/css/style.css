@@ -4,9 +4,25 @@ nav {
     border-bottom: black 2px solid;
 }
 
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(../images/background-img.jpg);
+    font-family: sans-serif;
+}
+
 .bold {
-    font-size: 18px;
-    font-family: fantasy;
+    color: azure;
+    font-size: 32px;
+    font-family: sans-serif;
+}
+
+.link {
+    color: azure;
+    font-size: 28px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    text-align: center;
 }
 
 /* Container holding the image and the text */
